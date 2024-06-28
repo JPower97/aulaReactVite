@@ -13,7 +13,7 @@ Primeiros passos com react usando vite
          node js ( a cima do 18.10 ) https://nodejs.org/pt
     ex:
         npm create vite@latest
-        ![Texto Alternativo](../public/npm.png)
+        ![Texto Alternativo](/img/npm.png)
         confimar 
 
 
