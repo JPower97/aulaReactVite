@@ -17,3 +17,40 @@ Primeiros passos com react usando vite
         confimar 
 
 
+4 - confimar a instalação:
+     so aperta o y
+
+5 - coloca o nome do projeto
+
+6 - escolher a opcao que vai usa que vai ser o react:
+
+        ![Texto Alternativo](/img/opcao.png)
+
+7 - escolher so o JS pq vamos usa por enquanto react so com js:
+
+                ![Texto Alternativo](/img/js.png)
+
+8 - agora so seguir o passo a passo que ele ja da pelo cmd:
+
+                    ![Texto Alternativo](/img/cd.png)
+        - usa o CD NOME(nome da pasta) para entra na pasta
+                    ![Texto Alternativo](/img/i.png)
+        - da o npm install 
+                    ![Texto Alternativo](/img/js.png)
+        - entra no vs:
+             code .
+             
+                    ![Texto Alternativo](/img/code.png)
+        - volta no terminal e sobe o serve :
+
+                    npm run dev
+
+                    ![Texto Alternativo](/img/npm.png)
+
+
+
+
+
+
+
+
